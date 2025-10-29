@@ -39,7 +39,7 @@
   **Authors:** Haoxu Huang (Tsinghua University)  
   **Venue:** ICRA 2024  
   **Paper:** [arXiv:2403.08248](https://arxiv.org/abs/2403.08248)  
-  **Code:** [Project Page](https://copa-2024.github.io)
+  **Code:** [GitHub - HaoxuHuang/copa](https://github.com/HaoxuHuang/copa)
 
 - **Title:** Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks  
   **Authors:** Wenqi Zhang (Zhejiang University)  
@@ -57,7 +57,7 @@
   **Authors:** Mustafa Shukor (Hugging Face)  
   **Venue:** arXiv 2024-08  
   **Paper:** [arXiv:2506.01844](https://arxiv.org/abs/2506.01844)  
-  **Code:** [Hugging Face Blog - SmolVLA](https://github.com/huggingface/blog/blob/main/smolvla.md)
+  **Code:** [GitHub - huggingface/lerobot](https://github.com/huggingface/lerobot/tree/main/src/lerobot/policies/smolvla)
 
 - **Title:** SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model  
   **Authors:** Delin Qu (Shanghai AI Laboratory)  
