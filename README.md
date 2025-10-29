@@ -4,19 +4,19 @@
 
 - **Title:** Unified Vision-Language-Action Model (UniVLA)  
   **Authors:** Yuqi Wang (CASIA, BAAI)  
-  **Venue:** arXiv 2025 
+  **Venue:** arXiv 2025
   **Paper:** [arXiv:2506.19850](https://arxiv.org/abs/2506.19850)  
   **Code:** [GitHub - baaivision/UniVLA](https://github.com/baaivision/UniVLA)
 
 - **Title:** MEMORYVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation  
   **Authors:** Hao Shi (Tsinghua University)  
-  **Venue:** arXiv 2025  
+  **Venue:** arXiv 2025
   **Paper:** [Project Page](https://shihao1895.github.io/MemoryVLA/)  
   **Code:** [GitHub - shihao1895/MemoryVLA](https://shihao1895.github.io/MemoryVLA/)
 
 - **Title:** SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning  
   **Authors:** Haozhan Li (Tsinghua University)  
-  **Venue:** arXiv 2025 
+  **Venue:** arXiv 2025
   **Paper:** [arXiv:2509.09674](https://arxiv.org/abs/2509.09674)  
   **Code:** [GitHub - PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL)
 
@@ -76,6 +76,6 @@
 
 - **Title:** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models  
   **Authors:** Wenlong Huang (Stanford University)  
-  **Venue:** CoRL 2023  
+  **Venue:** CoRL 2023 
   **Paper:** [arXiv:2307.05973](https://arxiv.org/abs/2307.05973)  
   **Code:** [GitHub - huangwl18/VoxPoser](https://github.com/huangwl18/VoxPoser)
