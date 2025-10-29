@@ -3,79 +3,79 @@
 ## 2025
 
 - **Title:** Unified Vision-Language-Action Model (UniVLA)  
-  **Authors:** Y. Wang, et al.  
-  **Venue:** arXiv 2025  
+  **Authors:** Yuqi Wang (CASIA, BAAI)  
+  **Venue:** arXiv 2025-06  
   **Paper:** [arXiv:2506.19850](https://arxiv.org/abs/2506.19850)  
-  **Code:** [GitHub](https://github.com/baaivision/UniVLA)  :contentReference[oaicite:0]{index=0}
+  **Code:** [GitHub - baaivision/UniVLA](https://github.com/baaivision/UniVLA)
 
-- **Title:** Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks  
-  **Authors:** W. Zhang, et al.  
-  **Venue:** arXiv 2025  
-  **Paper:** [arXiv:2503.21696](https://arxiv.org/abs/2503.21696)  
-  **Code:** [Project Page](https://embodied-reasoner.github.io/)  :contentReference[oaicite:1]{index=1}
-
-- **Title:** SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics  
-  **Authors:** M. Shukor, et al.  
-  **Venue:** arXiv 2025  
-  **Paper:** [arXiv:2506.01844](https://arxiv.org/abs/2506.01844)  
-  **Code:** —  :contentReference[oaicite:2]{index=2}
+- **Title:** MEMORYVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation  
+  **Authors:** Hao Shi (Tsinghua University)  
+  **Venue:** ICRA 2025 (arXiv 2024-10)  
+  **Paper:** [Project Page](https://shihao1895.github.io/MemoryVLA/)  
+  **Code:** [GitHub - shihao1895/MemoryVLA](https://shihao1895.github.io/MemoryVLA/)
 
 - **Title:** SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning  
-  **Authors:** H. Li, et al.  
-  **Venue:** arXiv 2025  
+  **Authors:** Haozhan Li (Tsinghua University)  
+  **Venue:** ICLR 2025 Poster  
   **Paper:** [arXiv:2509.09674](https://arxiv.org/abs/2509.09674)  
-  **Code:** [GitHub](https://github.com/PRIME-RL/SimpleVLA-RL)  :contentReference[oaicite:3]{index=3}
-
-- **Title:** SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model  
-  **Authors:** D. Qu, et al.  
-  **Venue:** arXiv 2025  
-  **Paper:** [arXiv:2501.15830](https://arxiv.org/abs/2501.15830)  
-  **Code:** [GitHub](https://github.com/SpatialVLA/SpatialVLA) · [Site](https://spatialvla.github.io)  :contentReference[oaicite:4]{index=4}
-
-- **Title:** Galaxea Open-World Dataset and G0 Dual-System VLA Model  
-  **Authors:** T. Jiang, et al.  
-  **Venue:** arXiv 2025  
-  **Paper:** [arXiv:2509.00576](https://arxiv.org/abs/2509.00576)  
-  **Code:** [G0 on GitHub](https://github.com/OpenGalaxea/G0) · [Project](https://opengalaxea.github.io/G0/)  :contentReference[oaicite:5]{index=5}
-
-- **Title:** MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation  
-  **Authors:** H. Shi, et al.  
-  **Venue:** arXiv 2025  
-  **Paper:** [arXiv:2508.19236](https://arxiv.org/abs/2508.19236)  
-  **Code:** —  :contentReference[oaicite:6]{index=6}
+  **Code:** [GitHub - PRIME-RL/SimpleVLA-RL](https://github.com/PRIME-RL/SimpleVLA-RL)
 
 
 ## 2024
 
-- **Title:** π0: A Vision-Language-Action Flow Model for General Robot Control  
-  **Authors:** K. Black, et al.  
-  **Venue:** arXiv 2024  
-  **Paper:** [arXiv:2410.24164](https://arxiv.org/abs/2410.24164)  
-  **Code:** —  :contentReference[oaicite:7]{index=7}
-
-- **Title:** TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation  
-  **Authors:** J. Wen, et al.  
-  **Venue:** arXiv 2024  
-  **Paper:** [arXiv:2409.12514](https://arxiv.org/abs/2409.12514)  
-  **Code:** [Site](https://tiny-vla.github.io)  :contentReference[oaicite:8]{index=8}
-
 - **Title:** OpenVLA: An Open-Source Vision-Language-Action Model  
-  **Authors:** M. J. Kim, et al.  
-  **Venue:** arXiv 2024  
+  **Authors:** Moo Jin Kim (Stanford University)  
+  **Venue:** CoRL 2024  
   **Paper:** [arXiv:2406.09246](https://arxiv.org/abs/2406.09246)  
-  **Code:** [GitHub](https://github.com/openvla/openvla) · [Project](https://openvla.github.io)  :contentReference[oaicite:9]{index=9}
+  **Code:** [GitHub - openvla/openvla](https://github.com/openvla/openvla)
+
+- **Title:** π0: A Vision-Language-Action Flow Model for General Robot Control  
+  **Authors:** Kevin Black (Physical Intelligence Company)  
+  **Venue:** CoRL 2024 (PMLR v270)  
+  **Paper:** [arXiv:2410.24164](https://arxiv.org/abs/2410.24164)  
+  **Code:** [GitHub - Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 
 - **Title:** CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models  
-  **Authors:** H. Huang, et al.  
-  **Venue:** arXiv 2024  
+  **Authors:** Haoxu Huang (Tsinghua University)  
+  **Venue:** ICRA 2024  
   **Paper:** [arXiv:2403.08248](https://arxiv.org/abs/2403.08248)  
-  **Code:** [Project Page](https://copa-2024.github.io)  :contentReference[oaicite:10]{index=10}
+  **Code:** [Project Page](https://copa-2024.github.io)
+
+- **Title:** Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks  
+  **Authors:** Wenqi Zhang (Zhejiang University)  
+  **Venue:** NeurIPS 2024 (D&B Track)  
+  **Paper:** [arXiv:2503.21696](https://arxiv.org/abs/2503.21696)  
+  **Code:** [GitHub - zwq2018/embodied_reasoner](https://github.com/zwq2018/embodied_reasoner)
+
+- **Title:** Galaxea Open-World Dataset and G0 Dual-System VLA Model  
+  **Authors:** Galaxea Collaboration  
+  **Venue:** RSS 2024 Workshop (arXiv 2024-06)  
+  **Paper:** [arXiv:2509.00576](https://arxiv.org/abs/2509.00576)  
+  **Code:** [GitHub - OpenGalaxea/G0](https://github.com/OpenGalaxea/G0)
+
+- **Title:** SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics  
+  **Authors:** Mustafa Shukor (Hugging Face)  
+  **Venue:** arXiv 2024-08  
+  **Paper:** [arXiv:2506.01844](https://arxiv.org/abs/2506.01844)  
+  **Code:** [Hugging Face Blog - SmolVLA](https://github.com/huggingface/blog/blob/main/smolvla.md)
+
+- **Title:** SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model  
+  **Authors:** Delin Qu (Shanghai AI Laboratory)  
+  **Venue:** RSS 2024  
+  **Paper:** [arXiv:2501.15830](https://arxiv.org/abs/2501.15830)  
+  **Code:** [GitHub - SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA)
+
+- **Title:** TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation  
+  **Authors:** Junjie Wen (Midea Group)  
+  **Venue:** ICRA 2024 Workshop (arXiv 2024-06)  
+  **Paper:** [arXiv:2409.12514](https://arxiv.org/abs/2409.12514)  
+  **Code:** [GitHub - liyaxuanliyaxuan/TinyVLA](https://github.com/liyaxuanliyaxuan/TinyVLA)
 
 
 ## 2023
 
 - **Title:** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models  
-  **Authors:** W. Huang, et al.  
-  **Venue:** arXiv 2023  
+  **Authors:** Wenlong Huang (Stanford University)  
+  **Venue:** ICRA 2023  
   **Paper:** [arXiv:2307.05973](https://arxiv.org/abs/2307.05973)  
-  **Code:** [Project](https://voxposer.github.io/) · [PDF](https://voxposer.github.io/voxposer.pdf)  :contentReference[oaicite:11]{index=11}
+  **Code:** [GitHub - huangwl18/VoxPoser](https://github.com/huangwl18/VoxPoser)
