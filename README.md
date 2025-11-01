@@ -54,7 +54,7 @@
   **Authors:** Guanxing Lu(Tsinghua University)
   **Venue:** arXiv 2025-05
   **Paper:** [arXiv:2505.18719](https://arxiv.org/abs/2505.18719)
-  **Code:** [GitHub - GuanxingLu/vlar](https://github.com/GuanxingLu/vlarl?tab=readme-ov-file)
+  **Code:** [GitHub - GuanxingLu/vlarl](https://github.com/GuanxingLu/vlarl?tab=readme-ov-file)
 
 - **Title:** Interactive Post-Training for Vision-Language-Action Models
   **Authors:** Shuhan Tan(UT Austin, Nankai University)
