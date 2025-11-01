@@ -44,6 +44,12 @@
   **Paper:** [arXiv:2501.15830](https://arxiv.org/abs/2501.15830)  
   **Code:** [GitHub - SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA)
 
+- **Title:** InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning  
+  **Authors:** Ji Zhang(University of Electronic Science and Technology of China)  
+  **Venue:** arXiv 2025-05
+  **Paper:** [arXiv:2505.13888](https://arxiv.org/abs/2505.13888)
+  **Code:** [GitHub - Koorye/Inspire](https://github.com/Koorye/Inspire)
+
 ## 2024
 
 - **Title:** OpenVLA: An Open-Source Vision-Language-Action Model  
