@@ -120,6 +120,12 @@
   **Paper:** [arXiv:2409.12514](https://arxiv.org/abs/2409.12514)  
   **Code:** [GitHub - liyaxuanliyaxuan/TinyVLA](https://github.com/liyaxuanliyaxuan/TinyVLA)
 
+- **Title:** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation
+  **Authors:** Qixiu Li(Tsinghua University)  
+  **Venue:** arXiv 2024-11
+  **Paper:** [arXiv:2411.19650](https://arxiv.org/abs/2411.19650)  
+  **Code:** [GitHub - microsoft/CogACT](https://github.com/microsoft/CogACT?tab=readme-ov-file)
+
 
 ## 2023
 
@@ -128,3 +134,9 @@
   **Venue:** CoRL 2023 
   **Paper:** [arXiv:2307.05973](https://arxiv.org/abs/2307.05973)  
   **Code:** [GitHub - huangwl18/VoxPoser](https://github.com/huangwl18/VoxPoser)
+
+- **Title:** A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter  
+  **Authors:** Kechun Xu 
+  **Venue:** ICRA 2023(arXiv 2023-02)
+  **Paper:** [arXiv:2302.12610](https://arxiv.org/abs/2302.12610)
+  **Code:** [GitHub - xukechun/Vision-Language-Grasping](https://github.com/xukechun/Vision-Language-Grasping)
