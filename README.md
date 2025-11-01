@@ -50,6 +50,49 @@
   **Paper:** [arXiv:2505.13888](https://arxiv.org/abs/2505.13888)
   **Code:** [GitHub - Koorye/Inspire](https://github.com/Koorye/Inspire)
 
+- **Title:** VLA-RL:Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning
+  **Authors:** Guanxing Lu(Tsinghua University)
+  **Venue:** arXiv 2025-05
+  **Paper:** [arXiv:2505.18719](https://arxiv.org/abs/2505.18719)
+  **Code:** [GitHub - GuanxingLu/vlar](https://github.com/GuanxingLu/vlarl?tab=readme-ov-file)
+
+- **Title:** Interactive Post-Training for Vision-Language-Action Models
+  **Authors:** Shuhan Tan(UT Austin, Nankai University)
+  **Venue:** CVPR 2025(arXiv 2025-05)
+  **Paper:** [arXiv:2505.17016](https://arxiv.org/abs/2505.17016)
+  **Code:** [GitHub - Ariostgx/ript-vla](https://github.com/Ariostgx/ript-vla)
+
+- **Title:** What Can RL Bring to VLA Generalization？An Empirical Study
+  **Authors:** Jijia Liu(Tsinghua University)
+  **Venue:** arXiv 2025-05
+  **Paper:** [arXiv:2505.19789](https://arxiv.org/abs/2505.19789)
+  **Code:** [GitHub - gen-robot/RL4VLA](https://github.com/gen-robot/RL4VLA)
+
+- **Title:** BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation
+  **Authors:** Hongyu Wang(Key Laboratory of AI Safety)
+  **Venue:** arXiv 2025-06
+  **Paper:** [arXiv:2506.07530](https://arxiv.org/abs/2506.07530)
+  **Code:** [GitHub - ustcwhy/BitVLA](https://github.com/ustcwhy/BitVLA?tab=readme-ov-file)
+
+- **Title:** VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model
+  **Authors:** Yihao Wang(Beijing University of Posts and Telecommunications ,Westlake University ,Zhejiang University,OpenHelix Team)
+  **Venue:** arXiv 2025-09
+  **Paper:** [arXiv:2509.09372](https://arxiv.org/abs/2509.09372)
+  **Code:** [GitHub - OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter)
+
+- **Title:** NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks
+  **Authors:** Chia-Yu Hung(Singapore University of Technology and Design,Lambda Labs)
+  **Venue:** arXiv 2025-04
+  **Paper:** [arXiv:2504.19854](https://arxiv.org/abs/2504.19854)
+  **Code:** [GitHub - declare-lab/nora](https://github.com/declare-lab/nora)
+
+- **Title:** ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model
+  **Authors:** Zhongyi Zhou(Midea Group)
+  **Venue:** arXiv 2025-02
+  **Paper:** [arXiv:2502.14420](https://arxiv.org/abs/2502.14420)
+  **Code:** [GitHub - tutujingyugang1/ChatVLA](https://github.com/tutujingyugang1/ChatVLA_public?tab=readme-ov-file)
+
+
 ## 2024
 
 - **Title:** OpenVLA: An Open-Source Vision-Language-Action Model  
