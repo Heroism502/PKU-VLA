@@ -2,6 +2,12 @@
 
 ## 2025
 
+- **Title:** π*0.6 : a VLA That Learns From Experience (π*0.6)
+  **Authors:** Ali Amin et al. (Physical Intelligence)  
+  **Venue:** arXiv 2025
+  **Paper:** [](https://www.pi.website/download/pistar06.pdf)  
+  **Code:** []()
+
 - **Title:** Unified Vision-Language-Action Model (UniVLA)  
   **Authors:** Yuqi Wang (CASIA, BAAI)  
   **Venue:** arXiv 2025
