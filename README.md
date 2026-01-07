@@ -2,7 +2,7 @@
 
 ## 2025
 
-- **Title:** UNIFIED DIFFUSION VLA: VISION-LANGUAGEACTION MODEL VIA JOINT DISCRETE DENOISING DIFFUSION PROCESS
+- **Title:** UNIFIED DIFFUSION VLA: VISION-LANGUAGEACTION MODEL VIA JOINT DISCRETE DENOISING DIFFUSION PROCESS  
   **Authors:** Jiayi Chen1, Wenxuan Song, Pengxiang Ding et al.
   **Venue:** arXiv 2025
   **Paper:** [Project Page](https://irpn-eai.github.io/UD-VLA.github.io/)  
