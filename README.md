@@ -2,6 +2,12 @@
 
 ## 2025
 
+- **Title:** UNIFIED DIFFUSION VLA: VISION-LANGUAGEACTION MODEL VIA JOINT DISCRETE DENOISING DIFFUSION PROCESS
+  **Authors:** Jiayi Chen1, Wenxuan Song, Pengxiang Ding et al.
+  **Venue:** arXiv 2025
+  **Paper:** [Project Page](https://irpn-eai.github.io/UD-VLA.github.io/)  
+  **Code:** [https://github.com/OpenHelix-Team/Unified-Diffusion-VLA/tree/main](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA/tree/main)
+
 - **Title:** π*0.6 : a VLA That Learns From Experience (π*0.6)  
   **Authors:** Ali Amin et al. (Physical Intelligence)  
   **Venue:** arXiv 2025
