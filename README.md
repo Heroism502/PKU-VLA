@@ -1,7 +1,7 @@
 # PKU-VLA
 ## Review/Survey
 
-- **Title:** Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives
+- **Title:** Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives  
   **Authors:** Shuanghao Bai, Wenxuan Song, Jiayi Chen et al.
   **Venue:** arXiv 2025  
   **Paper:** [arXiv Page](https://arxiv.org/abs/2512.22983)  
