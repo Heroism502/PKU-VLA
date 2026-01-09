@@ -2,8 +2,8 @@
 ## Review/Survey
 
 - **Title:** Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives  
-  **Authors:** Shuanghao Bai, Wenxuan Song, Jiayi Chen et al.
-  **Venue:** arXiv 2025  
+  **Authors:** Shuanghao Bai, Wenxuan Song, Jiayi Chen et al.  
+  **Venue:** arXiv 2025
   **Paper:** [arXiv Page](https://arxiv.org/abs/2512.22983)  
   **Code:** [https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
   
@@ -11,7 +11,7 @@
 
 - **Title:** UNIFIED DIFFUSION VLA: VISION-LANGUAGEACTION MODEL VIA JOINT DISCRETE DENOISING DIFFUSION PROCESS  
   **Authors:** Jiayi Chen1, Wenxuan Song, Pengxiang Ding et al.  
-  **Venue:** arXiv 2025  
+  **Venue:** arXiv 2025
   **Paper:** [Project Page](https://irpn-eai.github.io/UD-VLA.github.io/)  
   **Code:** [https://github.com/OpenHelix-Team/Unified-Diffusion-VLA/tree/main](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA/tree/main)
 
