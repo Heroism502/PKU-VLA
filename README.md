@@ -1,5 +1,12 @@
 # PKU-VLA
+## Review/Survey
 
+- **Title:** Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives
+  **Authors:** Shuanghao Bai, Wenxuan Song, Jiayi Chen et al.
+  **Venue:** arXiv 2025  
+  **Paper:** [arXiv Page](https://arxiv.org/abs/2512.22983)  
+  **Code:** [https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
+  
 ## 2025
 
 - **Title:** UNIFIED DIFFUSION VLA: VISION-LANGUAGEACTION MODEL VIA JOINT DISCRETE DENOISING DIFFUSION PROCESS  
